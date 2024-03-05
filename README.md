@@ -25,7 +25,7 @@ The rat inspection data set came from the open-source [NYC Rodent Inspection Dat
 The project files are divided between the following folders:
 
 - Project Management: Project brief
-- Data: Data dictionaries, original and prepared (cleaned/wrangled) datasets, and subsets of rat inspection data
+- Data: Data dictionaries, merged data sets, and subsets of cleaned rat inspection data
 - Scripts: Jupyter notebooks containing code for analysis
 - Analysis: Visualizations used for insights. Note: Tableau storyboard does not contain every step taken as part of the analysis, only those relevant to the final results.
 
